@@ -6,3 +6,4 @@ ssbsync-euw1.smartadserver.com
 mantishydra.mantis-awx.com
 maddlan.com
 phgotof1.com
+amelatrina.com
