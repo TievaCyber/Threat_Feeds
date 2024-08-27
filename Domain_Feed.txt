@@ -9,3 +9,5 @@ phgotof1.com
 amelatrina.com
 htliaproject.com
 lumtest.com
+particle.network
+rpc.particle.network
