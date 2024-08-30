@@ -13,3 +13,4 @@ particle.network
 rpc.particle.network
 voucher301.co.uk
 www.voucher301.co.uk
+loader.mantis-intelligence.com
