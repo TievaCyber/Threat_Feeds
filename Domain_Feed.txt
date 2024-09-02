@@ -16,3 +16,5 @@ www.voucher301.co.uk
 loader.mantis-intelligence.com
 res.ldrescdn.com
 seoul-massage.lat
+config-dsa.iggapis.com
+iggapis.com
