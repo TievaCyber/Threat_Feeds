@@ -20,3 +20,4 @@ config-dsa.iggapis.com
 iggapis.com
 collector.azure.microsoft.scloud
 collector.azure.eaglex.ic.gov
+slumblr.com
